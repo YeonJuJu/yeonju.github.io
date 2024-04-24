@@ -2,6 +2,7 @@
 <script type="text/javascript">
   (function () {
     const origin = 'https://giscus.app';
+    const iframe = 'iframe.giscus-frame';
     const lightTheme = 'light';
     const darkTheme = 'dark_dimmed';
 
@@ -57,7 +58,7 @@
           }
         };
 
-        const giscus = document.getElementsByClassName('giscus-frame')[0].contentWindow;
+        const giscus = document.querySelector(iframe).contentWindow;
         giscus.postMessage({ giscus: message }, origin);
       }
     });

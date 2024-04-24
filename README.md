@@ -20,7 +20,7 @@
 
 ## Features
 
-- Dark Theme
+- Dark / Light Theme Mode
 - Localized UI language
 - Pinned Posts on Home Page
 - Hierarchical Categories
@@ -30,13 +30,13 @@
 - Syntax Highlighting
 - Mathematical Expressions
 - Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
+- Dark / Light Mode Images
+- Embed Videos
+- Disqus / Giscus / Utterances Comments
 - Built-in Search
 - Atom Feeds
 - PWA
-- Web Analytics
+- Google Analytics / GoatCounter
 - SEO & Performance Optimization
 
 ## Documentation
@@ -56,7 +56,7 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 Thanks to [all the contributors][contributors] involved in the development of the project!
 
 [![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
+<sub> —— Made with [contrib.rocks](https://contrib.rocks)</sub>
 
 ### Third-Party Assets
 
